@@ -68,3 +68,5 @@ elif Hufflepuff > Gryffindor and Hufflepuff > Ravenclaw and Hufflepuff > Slyther
   print(f'You are in house:🦡 Hufflepuff')
 elif Slytherin > Gryffindor and Slytherin > Ravenclaw and Slytherin > Hufflepuff:
   print(f'You are in house:🐍 Slytherin')
+else:
+  print("Something Went Wrong")
