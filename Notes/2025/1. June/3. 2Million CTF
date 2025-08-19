@@ -91,13 +91,6 @@ Output:
 ---------------------------------------------------------------------------------------------                         
 There was 3 endpoints under the /api/v1/admin and the interesting one was Update user settings witch potentionaly can give us a admin privilages.
 
-Next Question:
- What API endpoint has a command injection vulnerability in it?
-
-Then i jumped in burpsuit and started the reapeater.
-There i created a new account with a variable is_admin=1 and gived my self admin.
-then i added a reverse shell in the reaper and got reverse shell with netcat and got the flags.
-
-This was very hard for me since im still new and i had to search so much to find the ways.
+So i give up here i even watched tutorials and coudnt do it but ill try again soon :)
 
 12:50 6/28/2025
