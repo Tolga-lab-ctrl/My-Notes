@@ -1,5 +1,5 @@
 print("Hogwarts Hat Game, I Had Good Time While Making This.")
-print("Made by TheLagSquad(TISSEC)")
+print("Made by TISSEC")
 print("----------------------------------------------------")
 Slytherin = 0
 Ravenclaw = 0
